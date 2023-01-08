@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "oppia-angular"
+  "defaultProject": "oppia-angular",
+  "cli": {
+    "analytics": false
+  }
 }
